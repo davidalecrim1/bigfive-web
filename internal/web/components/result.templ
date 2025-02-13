@@ -1,0 +1,50 @@
+package components 
+
+import (
+	"bigfive-web/internal/app"
+	"strconv"
+)
+
+templ PersonalityTestResultPage(results []app.UserAnswers) {
+	@navbar()
+	@base() {
+		for _, result := range results {
+			<div class="mb-4">
+				<h3>Domain: { result.Domain }</h3>
+				<p>Score: { strconv.Itoa(result.Score) }</p>
+				<p>Result: { result.Result }</p>
+				<p>ID: { result.Id.String() }</p>
+			</div>
+		}
+	}
+}
+
+templ PersonalityTestGetResultPage() {
+	@navbar()
+	@base() {
+		<div class="container mt-5">
+			<div class="row justify-content-start">
+				<div class="col-md-6">
+					<h1 class="mb-4">Result</h1>
+					<p class="">
+						If you have taken the test and saved your ID, you can see the results
+						here by typing in the ID you received.
+					</p>
+					<form action="/results/submit" class="mt-4">
+						<div class="mb-3">
+							<label for="id" class="form-label">Enter Your ID</label>
+							<input
+								type="text"
+								id="id"
+								name="id"
+								class="form-control"
+								placeholder="58a70606a835c400c8b38e84"
+							/>
+						</div>
+						<button type="submit" class="btn btn-primary">Get result</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	}
+}

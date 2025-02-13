@@ -1,0 +1,56 @@
+{
+    "plus": [
+        {
+            "Text": "Very Inaccurate",
+            "Score": 1,
+            "Color": 1
+        },
+        {
+            "Text": "Moderately Inaccurate",
+            "Score": 2,
+            "Color": 2
+        },
+        {
+            "Text": "Neither Accurate Nor Inaccurate",
+            "Score": 3,
+            "Color": 3
+        },
+        {
+            "Text": "Moderately Accurate",
+            "Score": 4,
+            "Color": 4
+        },
+        {
+            "Text": "Very Accurate",
+            "Score": 5,
+            "Color": 5
+        }
+    ],
+    "minus": [
+        {
+            "Text": "Very Inaccurate",
+            "Score": 5,
+            "Color": 1
+        },
+        {
+            "Text": "Moderately Inaccurate",
+            "Score": 4,
+            "Color": 2
+        },
+        {
+            "Text": "Neither Accurate Nor Inaccurate",
+            "Score": 3,
+            "Color": 3
+        },
+        {
+            "Text": "Moderately Accurate",
+            "Score": 2,
+            "Color": 4
+        },
+        {
+            "Text": "Very Accurate",
+            "Score": 1,
+            "Color": 5
+        }
+    ]
+}

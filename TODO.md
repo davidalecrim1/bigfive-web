@@ -1,2 +1,6 @@
-- Add docker compose with mongo DB
-- add air for auto reload of the app
+- add middleware for the language
+- add e2e tests for submit tests and retrive tests from the database
+- add questions on the database
+- paginate the test page with next and previous - gave this up for now
+- finish the result page based on -> https://bigfive-test.com/result/66f6f2641562b6f8299229d5
+- add facets in the result page

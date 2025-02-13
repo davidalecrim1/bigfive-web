@@ -1,0 +1,842 @@
+[
+    {
+        "Id": "43c98ce8-a07a-4dc2-80f6-c1b2a2485f06",
+        "Text": "Worry about things",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 1
+    },
+    {
+        "Id": "d50a597f-632b-4f7b-89e6-6d85b50fd1c9",
+        "Text": "Make friends easily",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 1
+    },
+    {
+        "Id": "888dd864-7449-4e96-8d5c-7a439603ea91",
+        "Text": "Have a vivid imagination",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 1
+    },
+    {
+        "Id": "ce2fbbf8-7a97-4199-bda5-117e4ecdf3b6",
+        "Text": "Trust others",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 1
+    },
+    {
+        "Id": "c7f53c3c-2e77-432f-bb71-7470b67d3aa9",
+        "Text": "Complete tasks successfully",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 1
+    },
+    {
+        "Id": "48ad12ce-470e-4339-90ac-ea8c43a0103e",
+        "Text": "Get angry easily",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 2
+    },
+    {
+        "Id": "458f3957-2359-4077-ade1-34525d633063",
+        "Text": "Love large parties",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 2
+    },
+    {
+        "Id": "58d571e5-d725-4cf8-a438-32c16ee28eb6",
+        "Text": "Believe in the importance of art",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 2
+    },
+    {
+        "Id": "0cf79e27-e702-45c2-9471-04ac96b58e0e",
+        "Text": "Use others for my own ends",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 2
+    },
+    {
+        "Id": "cda1ca17-b599-4561-a6cd-ff9d36062d27",
+        "Text": "Like to tidy up",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 2
+    },
+    {
+        "Id": "5e8550d7-b8ef-4905-950a-f81d735d39e2",
+        "Text": "Often feel blue",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 3
+    },
+    {
+        "Id": "8af754f2-68e9-48f3-8c5d-2e6633d4472c",
+        "Text": "Take charge",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 3
+    },
+    {
+        "Id": "0727def6-3d18-4221-bf38-86b58f9f3eed",
+        "Text": "Experience my emotions intensely",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 3
+    },
+    {
+        "Id": "ccf3a5c8-fb50-4bd4-8e7a-22af3d657279",
+        "Text": "Love to help others",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 3
+    },
+    {
+        "Id": "73d84e5d-cbf5-47f0-b8cb-4d2159a52e32",
+        "Text": "Keep my promises",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 3
+    },
+    {
+        "Id": "b2d9ef74-73f5-4ea8-b00c-7aaca15937df",
+        "Text": "Find it difficult to approach others",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 4
+    },
+    {
+        "Id": "48a761ef-438e-409b-ae59-ea2ce8f84414",
+        "Text": "Am always busy",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 4
+    },
+    {
+        "Id": "cae55842-8957-4e3b-83b3-ceff98fb9dcf",
+        "Text": "Prefer variety to routine",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 4
+    },
+    {
+        "Id": "e2028ad3-b128-4f76-be57-398bfe2aff22",
+        "Text": "Love a good fight",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 4
+    },
+    {
+        "Id": "b7fc949b-02b6-4cb9-a3e2-dbb3d824b55f",
+        "Text": "Work hard",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 4
+    },
+    {
+        "Id": "481efd08-c810-43b1-a952-f8ac9052f96b",
+        "Text": "Go on binges",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 5
+    },
+    {
+        "Id": "987efee2-899f-4a65-b9b5-1589ef0460d7",
+        "Text": "Love excitement",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 5
+    },
+    {
+        "Id": "e1e804c7-4a1d-498f-8610-f95147af9d1d",
+        "Text": "Love to read challenging material",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 5
+    },
+    {
+        "Id": "71029381-3908-4c68-91e1-e41fb45542a2",
+        "Text": "Believe that I am better than others",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 5
+    },
+    {
+        "Id": "f6076eea-56ae-4b46-97f1-5f94a7676c96",
+        "Text": "Am always prepared",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 5
+    },
+    {
+        "Id": "2f519935-92e8-48ad-9746-4a0f8b38466a",
+        "Text": "Panic easily",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 6
+    },
+    {
+        "Id": "899c3f66-51d0-46ea-963a-6fc36d3b3cb9",
+        "Text": "Radiate joy",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 6
+    },
+    {
+        "Id": "79186f48-e7fa-4df4-b74b-b0627ee244e1",
+        "Text": "Tend to vote for liberal political candidates",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 6
+    },
+    {
+        "Id": "fd50e1ca-d9e0-4037-a7a1-a191d4db2d96",
+        "Text": "Sympathize with the homeless",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 6
+    },
+    {
+        "Id": "bd9eec0a-b68b-472c-8803-7db29c308cdb",
+        "Text": "Jump into things without thinking",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 6
+    },
+    {
+        "Id": "7f92ab2c-265c-4b84-8c74-09f9bb9d41a7",
+        "Text": "Fear for the worst",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 1
+    },
+    {
+        "Id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
+        "Text": "Feel comfortable around people",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 1
+    },
+    {
+        "Id": "08ff6dca-02a5-4aeb-aaa4-2ecf2526f143",
+        "Text": "Enjoy wild flights of fantasy",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 1
+    },
+    {
+        "Id": "6f66cdc0-9044-457b-b40d-501ecae15ee7",
+        "Text": "Believe that others have good intentions",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 1
+    },
+    {
+        "Id": "f110fc66-2e9e-413c-920b-19f05e63d7ac",
+        "Text": "Excel in what I do",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 1
+    },
+    {
+        "Id": "7dab2a37-8635-4fc7-86b7-0abf13c183c9",
+        "Text": "Get irritated easily",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 2
+    },
+    {
+        "Id": "28ab59a0-e7cd-4fce-94e3-bba2ecc023b6",
+        "Text": "Talk to a lot of different people at parties",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 2
+    },
+    {
+        "Id": "b5919f2f-cded-4745-a9ce-c02703cee807",
+        "Text": "See beauty in things that others might not notice",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 2
+    },
+    {
+        "Id": "5a5fa975-d024-4ac8-8845-2823f957c21b",
+        "Text": "Cheat to get ahead",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 2
+    },
+    {
+        "Id": "adf33f9f-45bd-43e3-af25-4c491176d97f",
+        "Text": "Often forget to put things back in their proper place",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 2
+    },
+    {
+        "Id": "f0a14e16-d726-47e9-a2c1-647fd3d7d52e",
+        "Text": "Dislike myself",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 3
+    },
+    {
+        "Id": "0b38e3d3-c15c-454c-b034-f4eb7ae1580a",
+        "Text": "Try to lead others",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 3
+    },
+    {
+        "Id": "5631b856-ff34-4f76-a0cd-edc7104c3bfa",
+        "Text": "Feel others emotions",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 3
+    },
+    {
+        "Id": "ada867af-4db1-4e3d-a604-2b695c1806e5",
+        "Text": "Am concerned about others",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 3
+    },
+    {
+        "Id": "c55e3958-00c4-4fc3-9118-47d8f31bfde1",
+        "Text": "Tell the truth",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 3
+    },
+    {
+        "Id": "acd8fadc-5399-4a67-b5ff-9d1ada049c01",
+        "Text": "Am afraid to draw attention to myself",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 4
+    },
+    {
+        "Id": "d07b6c67-0d02-4948-a997-bb84ac234cd8",
+        "Text": "Am always on the go",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 4
+    },
+    {
+        "Id": "33b81fd0-7e32-4cd8-a13a-d5f5f754f998",
+        "Text": "Prefer to stick with things that I know",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 4
+    },
+    {
+        "Id": "d9a9a180-29c9-4ec5-8621-2256d411def7",
+        "Text": "Yell at people",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 4
+    },
+    {
+        "Id": "f12c3d9d-1d12-4aa6-ad2e-009cd0651cbb",
+        "Text": "Do more than what\"s expected of me",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 4
+    },
+    {
+        "Id": "9891b7ba-a494-4307-aafe-301d8db506c6",
+        "Text": "Rarely overindulge",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 5
+    },
+    {
+        "Id": "f1675af6-88bf-4376-a946-0281e762b39c",
+        "Text": "Seek adventure",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 5
+    },
+    {
+        "Id": "95a3f20c-f933-4d19-a2c1-a7dbdf63c562",
+        "Text": "Avoid philosophical discussions",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 5
+    },
+    {
+        "Id": "7df44711-4cd4-4b05-8830-73fcc3ebdab5",
+        "Text": "Think highly of myself",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 5
+    },
+    {
+        "Id": "9d3cb5c7-955c-43a4-b6c7-b07ed01dcbd9",
+        "Text": "Carry out my plans",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 5
+    },
+    {
+        "Id": "13c58810-3864-42ba-aa87-d4166f858756",
+        "Text": "Become overwhelmed by events",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 6
+    },
+    {
+        "Id": "961376e0-16a1-4c14-b059-789e63d11b63",
+        "Text": "Have a lot of fun",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 6
+    },
+    {
+        "Id": "f08e1b27-3673-4898-9cae-896482d0d9f9",
+        "Text": "Believe that there is no absolute right and wrong",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 6
+    },
+    {
+        "Id": "c2038c12-7a37-47a8-9983-831bd6692aab",
+        "Text": "Feel sympathy for those who are worse off than myself",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 6
+    },
+    {
+        "Id": "956f3e17-ff17-4af5-a52f-9222b8968106",
+        "Text": "Make rash decisions",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 6
+    },
+    {
+        "Id": "4d81238b-5407-47d4-88e5-dc0e38aa14f5",
+        "Text": "Am afraid of many things",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 1
+    },
+    {
+        "Id": "9f9166f0-fa94-4c14-a91d-3eecd8395794",
+        "Text": "Avoid contacts with others",
+        "Keyed": "minus",
+        "Domain": "E",
+        "Facet": 1
+    },
+    {
+        "Id": "23a1034f-fab7-4887-a66e-5ef4eaafb25e",
+        "Text": "Love to daydream",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 1
+    },
+    {
+        "Id": "c63e6121-c3ed-40cc-abc2-c1e6ea1e0858",
+        "Text": "Trust what people say",
+        "Keyed": "plus",
+        "Domain": "A",
+        "Facet": 1
+    },
+    {
+        "Id": "02ee1930-36a7-4caa-b10c-c93efb682a44",
+        "Text": "Handle tasks smoothly",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 1
+    },
+    {
+        "Id": "da8e6ed1-2296-4c58-8fdb-66f2f591989b",
+        "Text": "Lose my temper",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 2
+    },
+    {
+        "Id": "03c10b30-b88f-4c63-8acc-71251ca24615",
+        "Text": "Prefer to be alone",
+        "Keyed": "minus",
+        "Domain": "E",
+        "Facet": 2
+    },
+    {
+        "Id": "751a04bc-5adf-485a-8ea4-4308406ae85b",
+        "Text": "Do not like poetry",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 2
+    },
+    {
+        "Id": "982e83c2-d34e-48da-9c71-78494ab05c85",
+        "Text": "Take advantage of others",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 2
+    },
+    {
+        "Id": "f4891687-0ff0-47af-a4f6-d1202c8f6676",
+        "Text": "Leave a mess in my room",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 2
+    },
+    {
+        "Id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
+        "Text": "Am often down in the dumps",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 3
+    },
+    {
+        "Id": "2452f034-8273-4f71-9122-a40f5ead31ba",
+        "Text": "Take control of things",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 3
+    },
+    {
+        "Id": "2a300001-6e05-4c79-b8b5-2ccae4c3d463",
+        "Text": "Rarely notice my emotional reactions",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 3
+    },
+    {
+        "Id": "cd54bd76-ca9c-4030-b325-bb8d896bcb3f",
+        "Text": "Am indifferent to the feelings of others",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 3
+    },
+    {
+        "Id": "4e6e3a34-176f-4e6e-8730-1341611f972b",
+        "Text": "Break rules",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 3
+    },
+    {
+        "Id": "20062533-a33d-4c1e-9cd9-bff868015b3f",
+        "Text": "Only feel comfortable with friends",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 4
+    },
+    {
+        "Id": "b2a077d5-1fe0-4b06-ab63-35455e001e54",
+        "Text": "Do a lot in my spare time",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 4
+    },
+    {
+        "Id": "0d2e65ab-95d9-482f-beb4-3239a3a4944a",
+        "Text": "Dislike changes",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 4
+    },
+    {
+        "Id": "0de0f900-cede-4538-9c00-5da4f830b028",
+        "Text": "Insult people",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 4
+    },
+    {
+        "Id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
+        "Text": "Do just enough work to get by",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 4
+    },
+    {
+        "Id": "9f2e7f90-0ca5-4ed0-9fe5-e060238a9b5e",
+        "Text": "Easily resist temptations",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 5
+    },
+    {
+        "Id": "7dd6cf2d-5c14-48c2-8ae5-633a7a596c71",
+        "Text": "Enjoy being reckless",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 5
+    },
+    {
+        "Id": "fecc35f7-681e-4889-a404-4a973a3dfef0",
+        "Text": "Have difficulty understanding abstract ideas",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 5
+    },
+    {
+        "Id": "1d686958-6fe7-432f-85e6-186b99e4e232",
+        "Text": "Have a high opinion of myself",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 5
+    },
+    {
+        "Id": "c7db0ed8-df7d-49bf-942f-59e46ef743c4",
+        "Text": "Waste my time",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 5
+    },
+    {
+        "Id": "b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87",
+        "Text": "Feel that I\"m unable to deal with things",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 6
+    },
+    {
+        "Id": "79d956e8-1118-402a-a0e2-9380af18243e",
+        "Text": "Love life",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 6
+    },
+    {
+        "Id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
+        "Text": "Tend to vote for conservative political candidates",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 6
+    },
+    {
+        "Id": "77f54ab4-0fba-4efb-8700-066c7490eb87",
+        "Text": "Am not interested in other people\"s problems",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 6
+    },
+    {
+        "Id": "a354cf7c-8d11-46ac-acc5-da90d2048637",
+        "Text": "Rush into things",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 6
+    },
+    {
+        "Id": "43b03992-3f32-4ed1-a6f8-5d6d3e7ed246",
+        "Text": "Get stressed out easily",
+        "Keyed": "plus",
+        "Domain": "N",
+        "Facet": 1
+    },
+    {
+        "Id": "41702602-08e4-4e2b-9a19-291d9efc581a",
+        "Text": "Keep others at a distance",
+        "Keyed": "minus",
+        "Domain": "E",
+        "Facet": 1
+    },
+    {
+        "Id": "935a7413-abac-4f54-9169-d1fbd39da752",
+        "Text": "Like to get lost in thought",
+        "Keyed": "plus",
+        "Domain": "O",
+        "Facet": 1
+    },
+    {
+        "Id": "432dbde8-8756-4ff0-80d5-f47018235139",
+        "Text": "Distrust people",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 1
+    },
+    {
+        "Id": "5727c93f-317b-4af1-a686-77fc9fbc5033",
+        "Text": "Know how to get things done",
+        "Keyed": "plus",
+        "Domain": "C",
+        "Facet": 1
+    },
+    {
+        "Id": "d32bd062-4eb2-401b-99b2-e7afea39ca9b",
+        "Text": "Am not easily annoyed",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 2
+    },
+    {
+        "Id": "9a47184f-6046-4e68-a61b-3d9b357b86ea",
+        "Text": "Avoid crowds",
+        "Keyed": "minus",
+        "Domain": "E",
+        "Facet": 2
+    },
+    {
+        "Id": "87c5b27e-59a8-4c48-8ba8-f5413d735693",
+        "Text": "Do not enjoy going to art museums",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 2
+    },
+    {
+        "Id": "11b20adb-abed-4363-894c-3dd823ae0540",
+        "Text": "Obstruct others\" plans",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 2
+    },
+    {
+        "Id": "50418d86-712c-45d9-adc4-ea0231c93cf5",
+        "Text": "Leave my belongings around",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 2
+    },
+    {
+        "Id": "f40e421f-6c24-4be2-bd9f-28d33358d8c6",
+        "Text": "Feel comfortable with myself",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 3
+    },
+    {
+        "Id": "8791f37b-686f-47c3-9db7-74c009951321",
+        "Text": "Wait for others to lead the way",
+        "Keyed": "minus",
+        "Domain": "E",
+        "Facet": 3
+    },
+    {
+        "Id": "4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d",
+        "Text": "Don\"t understand people who get emotional",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 3
+    },
+    {
+        "Id": "b68af20d-24f9-4c27-85cc-fe0858994888",
+        "Text": "Take no time for others",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 3
+    },
+    {
+        "Id": "54423933-0ebb-44a7-bdd9-2a9b100c70f2",
+        "Text": "Break my promises",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 3
+    },
+    {
+        "Id": "7317848c-3e1b-422f-bb16-02efc504f677",
+        "Text": "Am not bothered by difficult social situations",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 4
+    },
+    {
+        "Id": "7d93e1ca-46e8-4a30-9623-42a80c9b420c",
+        "Text": "Like to take it easy",
+        "Keyed": "minus",
+        "Domain": "E",
+        "Facet": 4
+    },
+    {
+        "Id": "a7f43928-8982-4ed5-8656-7a80346fe979",
+        "Text": "Am attached to conventional ways",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 4
+    },
+    {
+        "Id": "17910a55-a64a-4ed0-8b46-293e2fa2fe03",
+        "Text": "Get back at others",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 4
+    },
+    {
+        "Id": "3890bb43-2695-4b8d-b289-ee10d11cc884",
+        "Text": "Put little time and effort into my work",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 4
+    },
+    {
+        "Id": "49a85680-53aa-4208-86b5-dccc7a6f8e37",
+        "Text": "Am able to control my cravings",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 5
+    },
+    {
+        "Id": "10f90fa9-649c-4631-ac4c-3dd3f751597d",
+        "Text": "Act wild and crazy",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 5
+    },
+    {
+        "Id": "b86de003-c3c4-4cc8-9385-5ac8a0142c34",
+        "Text": "Am not interested in theoretical discussions",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 5
+    },
+    {
+        "Id": "80c1d149-7050-481a-9953-aefb441642e7",
+        "Text": "Boast about my virtues",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 5
+    },
+    {
+        "Id": "51403620-968c-42fa-a772-65ba5ad8396f",
+        "Text": "Have difficulty starting tasks",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 5
+    },
+    {
+        "Id": "88a3c2fe-3aa4-4f46-9322-da656332268a",
+        "Text": "Remain calm under pressure",
+        "Keyed": "minus",
+        "Domain": "N",
+        "Facet": 6
+    },
+    {
+        "Id": "e7b31bdc-5f6b-40ec-ba91-f5919b0f170e",
+        "Text": "Look at the bright side of life",
+        "Keyed": "plus",
+        "Domain": "E",
+        "Facet": 6
+    },
+    {
+        "Id": "580b08d1-3c94-46e9-9d07-d6d80c698127",
+        "Text": "Believe that we should be tough on crime",
+        "Keyed": "minus",
+        "Domain": "O",
+        "Facet": 6
+    },
+    {
+        "Id": "48bee420-60c0-45cd-be43-3893dbc1969a",
+        "Text": "Try not to think about the needy",
+        "Keyed": "minus",
+        "Domain": "A",
+        "Facet": 6
+    },
+    {
+        "Id": "ea3327ea-3529-4be4-8e2d-2174731ae4d7",
+        "Text": "Act without thinking",
+        "Keyed": "minus",
+        "Domain": "C",
+        "Facet": 6
+    }
+]

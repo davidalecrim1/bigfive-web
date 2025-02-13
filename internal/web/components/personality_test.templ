@@ -1,0 +1,43 @@
+package components
+
+import (
+	"bigfive-web/internal/app"
+	"strconv"
+)
+
+templ PersonalityTest(items []app.Items) {
+	<div class="container">
+		<form class="needs-validation" method="POST" action="/submit" hx-target="#response" hx-trigger="change">
+			for _, item := range items {
+				<div class="mb-4 item-group">
+					<p class="fw-bold mb-2">
+						{ strconv.Itoa(item.Num) + " - " + item.Text }
+					</p>
+					for i, choice := range item.Choice {
+						<div class="form-check">
+							<input
+								type="radio"
+								class="form-check-input"
+								id={ "question-" + strconv.Itoa(item.Num) + "-choice-" + strconv.Itoa(i) }
+								name={ "question-" + strconv.Itoa(item.Num) }
+								value={ strconv.Itoa(i) }
+								required
+							/>
+							<label class="form-check-label" for={ "question-" + strconv.Itoa(item.Num) + "-choice-" + strconv.Itoa(i) }>
+								{ choice.Text }
+							</label>
+							<div class="invalid-feedback">
+								Please choose an option.
+							</div>
+						</div>
+					}
+				</div>
+			}
+			<div class="mt-4">
+				<button type="submit" class="btn btn-primary btn-lg">
+					Submit Answers
+				</button>
+			</div>
+		</form>
+	</div>
+}

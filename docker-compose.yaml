@@ -1,12 +1,26 @@
-version: '3.9'
 services:
   bigfive-web-webui:
     build:
       context: .
     volumes:
-      - .:/app        # Mount local directory to /app in the container
-      - /app/tmp      # Air uses this directory for temporary builds
+      - .:/app # Mount local directory to /app in the container
+      - /app/tmp # Air uses this directory for temporary builds
     ports:
       - "8080:8080"
     environment:
       - AIR_MODE=dev
+      - MONGODB_ENDPOINT=${MONGODB_ENDPOINT}
+  bigfive-web-mongodb:
+    image: mongo:7.0
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    volumes:
+      - mongodb_data:/data/db
+      - ./scripts/mongodb/init.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+
+volumes:
+  mongodb_data:
+    driver: local
