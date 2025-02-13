@@ -1,0 +1,2 @@
+- Add docker compose with mongo DB
+- add air for auto reload of the app

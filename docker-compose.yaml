@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  bigfive-web-webui:
+    build:
+      context: .
+    volumes:
+      - .:/app        # Mount local directory to /app in the container
+      - /app/tmp      # Air uses this directory for temporary builds
+    ports:
+      - "8080:8080"
+    environment:
+      - AIR_MODE=dev
